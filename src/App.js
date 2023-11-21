@@ -9,7 +9,9 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer>Coded by Courtney Davis</footer>
+        <footer>
+          Coded by: <span className="author">Courtney Davis</span>
+        </footer>
       </div>
     </div>
   );
