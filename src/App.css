@@ -9,10 +9,14 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.author {
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
 footer {
   margin-top: 20px;
   font-size: 18px;
-}
-.author {
-  font-weight: bold;
 }

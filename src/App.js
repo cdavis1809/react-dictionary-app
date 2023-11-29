@@ -10,7 +10,12 @@ export default function App() {
           <Dictionary />
         </main>
         <footer>
-          Coded by: <span className="author">Courtney Davis</span>
+          Coded by:{" "}
+          <span className="author">
+            <a href="https://github.com/cdavis1809/react-dictionary-app">
+              Courtney Davis
+            </a>
+          </span>
         </footer>
       </div>
     </div>
