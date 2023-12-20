@@ -6,11 +6,9 @@ h1 {
   margin-bottom: 60px;
   margin-top: 40px;
   font-size: 90px;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 h5 {
-  color: rgb(184, 178, 178);
+  color: rgb(187, 191, 189);
 }
 input {
   border-radius: 4px;

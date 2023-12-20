@@ -2,6 +2,15 @@
   text-align: left;
 }
 strong {
-  color: rgb(184, 178, 178);
+  color: rgb(187, 191, 189);
+  text-transform: capitalize;
   font-size: 20px;
+}
+.speech {
+  margin-bottom: 18px;
+  margin-left: 30px;
+  font-size: 30px;
+  color: rgb(203, 208, 206);
+  text-transform: capitalize;
+  font-weight: 600;
 }
