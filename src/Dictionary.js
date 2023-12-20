@@ -14,7 +14,7 @@ export default function Dictionary() {
     console.log(response.data);
   }
   function handleImageResponse(response) {
-    setImageResults(response.data.photos);
+    setImageResults(response.data);
   }
   function search(event) {
     event.preventDefault();
