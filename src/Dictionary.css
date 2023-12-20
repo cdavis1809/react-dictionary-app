@@ -3,7 +3,20 @@ form {
   margin: 0 auto;
 }
 h1 {
-  margin-bottom: 40px;
+  margin-bottom: 60px;
   margin-top: 40px;
-  font-size: 50px;
+  font-size: 90px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h5 {
+  color: rgb(184, 178, 178);
+}
+input {
+  border-radius: 4px;
+  box-shadow: 0 8px 10px;
+  width: 80%;
+  padding: 6px;
+  color: #333;
+  margin-top: 10px;
 }

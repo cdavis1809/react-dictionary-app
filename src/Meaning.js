@@ -4,7 +4,6 @@ import Synonyms from "./Synonyms.js";
 import Antonyms from "./Antonyms.js";
 
 export default function Meaning(props) {
-  console.log(props.meaning);
   return (
     <div className="results">
       <br />

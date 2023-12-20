@@ -12,7 +12,11 @@ export default function App() {
         <footer>
           Coded by:{" "}
           <span className="author">
-            <a href="https://github.com/cdavis1809/react-dictionary-app">
+            <a
+              href="https://github.com/cdavis1809/react-dictionary-app"
+              target="_blank"
+              rel="noreferrer"
+            >
               Courtney Davis
             </a>
           </span>

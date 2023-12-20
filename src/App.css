@@ -8,13 +8,18 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 .author {
   font-weight: bold;
 }
 a {
   text-decoration: none;
-  color: white;
+  color: rgb(217, 214, 214);
+}
+a:hover {
+  color: rgb(47, 211, 156);
 }
 footer {
   margin-top: 20px;

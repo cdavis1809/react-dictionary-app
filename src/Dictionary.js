@@ -9,6 +9,7 @@ export default function Dictionary() {
 
   function handleResponse(response) {
     setResults(response.data);
+    console.log(response.data);
   }
   function search(event) {
     event.preventDefault();
@@ -23,6 +24,7 @@ export default function Dictionary() {
   return (
     <div className="dictionary">
       <h1>Dictionary App</h1>
+      <h5>Please enter a search term:</h5>
       <form onSubmit={search}>
         <input type="search" autoFocus={true} onChange={handleKeywordChange} />
       </form>
