@@ -17,7 +17,7 @@ export default function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Courtney Davis
+              Courtney Davis.
             </a>
           </span>
         </footer>
