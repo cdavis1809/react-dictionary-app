@@ -2,4 +2,8 @@ h2 {
   margin: 32px;
   text-transform: capitalize;
   font-size: 50px;
+  color: rgb(25, 47, 47);
+}
+h4 {
+  color: rgb(35, 66, 66);
 }

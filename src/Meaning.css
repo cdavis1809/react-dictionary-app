@@ -2,7 +2,7 @@
   text-align: left;
 }
 strong {
-  color: rgb(187, 191, 189);
+  color: rgb(35, 66, 66);
   text-transform: capitalize;
   font-size: 20px;
 }
@@ -10,7 +10,10 @@ strong {
   margin-bottom: 18px;
   margin-left: 30px;
   font-size: 30px;
-  color: rgb(203, 208, 206);
+  color: rgb(35, 66, 66);
   text-transform: capitalize;
   font-weight: 600;
+}
+hr {
+  color: rgb(35, 66, 66);
 }

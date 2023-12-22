@@ -1,13 +1,13 @@
 .App {
   text-align: center;
-  background-color: #282c34;
+  background-color: #589f9b;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(41, 76, 76);
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
@@ -19,7 +19,7 @@ a {
   color: rgb(217, 214, 214);
 }
 a:hover {
-  color: rgb(55, 241, 179);
+  color: rgb(17, 111, 115);
 }
 footer {
   margin-top: 20px;
