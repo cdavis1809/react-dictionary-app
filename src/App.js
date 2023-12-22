@@ -10,7 +10,7 @@ export default function App() {
           <Dictionary defaultKeyword="dog" />
         </main>
         <footer>
-          Coded by:{" "}
+          Code is open sourced and written by{" "}
           <span className="author">
             <a
               href="https://github.com/cdavis1809/react-dictionary-app"
